@@ -20,9 +20,7 @@ const Page = async ({ params }: RouteParams) => {
     const feedback = await getFeedbackByInterviewId({
         interviewId: id,
         userId: user?.id!,
-    })
-
-    console.log(feedback);
+    });
 
     return (
         <section className="section-feedback">
@@ -41,7 +39,7 @@ const Page = async ({ params }: RouteParams) => {
                             Overall Impression:{" "}
                             <span className="text-primary-200 font-bold">
                 {feedback?.totalScore}
-                </span>
+              </span>
                             /100
                         </p>
                     </div>

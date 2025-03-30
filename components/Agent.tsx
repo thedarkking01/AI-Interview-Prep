@@ -66,7 +66,7 @@ const Agent = ({ userName, userId, type, interviewId, questions }: AgentProps) =
         const { success, feedbackId: id } = await createFeedback({
             interviewId: interviewId!,
             userId: userId!,
-            transcript: messages,
+            transcript: messages
         })
 
         if(success && id) {
@@ -155,7 +155,7 @@ const Agent = ({ userName, userId, type, interviewId, questions }: AgentProps) =
                 {callStatus !== 'ACTIVE' ? (
                     <button className="relative btn-call" onClick={handleCall}>
                         <span className={cn('absolute animate-ping rounded-full opacity-75', callStatus !=='CONNECTING' && 'hidden')}
-                             />
+                            />
 
                             <span>
                                 {isCallInactiveOrFinished ? 'Call' : '. . .'}
