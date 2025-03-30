@@ -141,5 +141,3 @@ Feel free to fork this repository and create a pull request to contribute improv
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/thedarkking01/AI-Interview-Prep/blob/main/LICENSE) file for details.
 
 ---
-
-Happy interviewing and good luck with your preparation! 😄
