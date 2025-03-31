@@ -138,6 +138,6 @@ Feel free to fork this repository and create a pull request to contribute improv
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/thedarkking01/AI-Interview-Prep/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [MIT LICENSE](https://github.com/thedarkking01/AI-Interview-Prep/blob/main/LICENSE) file for details.
 
 ---
