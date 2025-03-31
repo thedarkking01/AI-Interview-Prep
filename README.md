@@ -4,6 +4,12 @@ Welcome to **AI Preparation**, a modern and interactive platform designed to hel
 
 ---
 
+### 👽 WEBSITE DIAGRAM
+![Website Diagram](https://github.com/user-attachments/assets/dff493c6-54ef-435f-9b4f-b8b065ff23dc)
+
+
+---
+
 ## 🔋 Features
 
 - **Authentication**: Sign Up and Sign In using email/password authentication, managed by Firebase.
